@@ -1,0 +1,11 @@
+c:\users\user\source\repos\TypeScript\TypeScript\bin\Debug\netcoreapp2.0\TypeScript.deps.json
+c:\users\user\source\repos\TypeScript\TypeScript\bin\Debug\netcoreapp2.0\TypeScript.runtimeconfig.json
+c:\users\user\source\repos\TypeScript\TypeScript\bin\Debug\netcoreapp2.0\TypeScript.runtimeconfig.dev.json
+c:\users\user\source\repos\TypeScript\TypeScript\bin\Debug\netcoreapp2.0\TypeScript.dll
+c:\users\user\source\repos\TypeScript\TypeScript\obj\Debug\netcoreapp2.0\TypeScript.csprojResolveAssemblyReference.cache
+c:\users\user\source\repos\TypeScript\TypeScript\obj\Debug\netcoreapp2.0\TypeScript.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\TypeScript\TypeScript\obj\Debug\netcoreapp2.0\TypeScript.AssemblyInfoInputs.cache
+c:\users\user\source\repos\TypeScript\TypeScript\obj\Debug\netcoreapp2.0\TypeScript.AssemblyInfo.cs
+c:\users\user\source\repos\TypeScript\TypeScript\bin\Debug\netcoreapp2.0\TypeScript.pdb
+c:\users\user\source\repos\TypeScript\TypeScript\obj\Debug\netcoreapp2.0\TypeScript.dll
+c:\users\user\source\repos\TypeScript\TypeScript\obj\Debug\netcoreapp2.0\TypeScript.pdb
